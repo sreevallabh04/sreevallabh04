@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with [SynCrypt](https://github.com/sreevallabh04/MusicEncryptionImage)
 
-- Here are the photos i take [vsco.co/sreevallabhhhh](vsco.co/sreevallabhhhh)
-
 - 💬 Ask me about **Full Stack projects**
 
 - 📫 How to reach me **srivallabhkakarala@gmail.com**
