@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [SynCrypt](https://github.com/sreevallabh04/MusicEncryptionImage)
 
-- Here is my porfolio [streamvallabh.life](streamvallabh.life)
+- Here is my porfolio [streamvallabh.life](https://www.streamvallabh.life)
 
 - 💬 Ask me about **Full Stack projects**
 
