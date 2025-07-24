@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gothamjest" target="blank"><img src="https://img.shields.io/twitter/follow/gothamjest?logo=twitter&style=for-the-badge" alt="gothamjest" /></a> </p>
 
-- 🔭 I’m currently working on [GitAlong](Github.com/sreevallabh04/Gitalong)
+- 🔭 I’m currently working on [GitAlong](Gitalong)
 
 - 🌱 I’m currently learning **DSA,Flutter and AWS**
 
