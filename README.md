@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sreevallabh</h1>
-<h3 align="center">Tech enthusiast</h3>
+<h3 align="center">Wanna be Hybrid Athlete </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevallabh04&label=Profile%20views&color=0e75b6&style=flat" alt="sreevallabh04" /> </p>
 
@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [GitAlong](Gitalong)
 
-- 🌱 I’m currently learning **DSA,Flutter and AWS**
 
-- 👯 I’m looking to collaborate on [Quiznetic](quiznetic.vercel.app)
-
-- 🤝 I’m looking for help with [SynCrypt](https://github.com/sreevallabh04/MusicEncryptionImage)
 
 - Here is my porfolio [streamvallabh.life](https://www.streamvallabh.life)
 
