@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sreevallabh</h1>
-<h3 align="center">Wanna be Hybrid Athlete </h3>
+<h3 align="center">Wannabe Hybrid Athlete </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevallabh04&label=Profile%20views&color=0e75b6&style=flat" alt="sreevallabh04" /> </p>
 
