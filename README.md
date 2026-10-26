@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently building **GitAlong** (Developer networking platform)
-- 🌐 Portfolio: [streamvallabh.life](https://www.streamvallabh.life)
+- 🌐 Portfolio: [streamvallabh.life](https://www.sreevallabh.me)
 - 💬 Ask me about **Full Stack Development, AI Projects**
 - 📫 Reach me at: **srivallabhkakarala@gmail.com**
 
