@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=sreevallabh04&show_icons=true&theme=tokyonight](https://streak-stats.demolab.com?user=sreevallabh04&theme=tokyonight&timezone=Asia/Kolkata&v=2)" />
+  <img src="https://streak-stats.demolab.com?user=sreevallabh04&theme=tokyonight&timezone=Asia/Kolkata&v=2" />
 </p>
 
 <p align="center">
